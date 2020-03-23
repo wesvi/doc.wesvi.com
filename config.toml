@@ -49,10 +49,15 @@ enableGitInfo = true
 #  weight = 20
 
 [[menu.after]]
- name = "Hugo Themes"
+ name = "Categories"
  url = "/categories/"
  weight = 20
 
+[[menu.after]]
+ name = "Tags"
+ url = "/tags/"
+ weight = 30
+ 
 [params]
   # (Optional, default true) Controls table of contents visibility on right side of pages.
   # Start and end levels can be controlled with markup.tableOfContents setting.
