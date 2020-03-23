@@ -20,33 +20,33 @@ enableGitInfo = true
 # There are different options to translate files
 # See https://gohugo.io/content-management/multilingual/#translation-by-filename
 # And https://gohugo.io/content-management/multilingual/#translation-by-content-directory
-[languages]
-[languages.en]
-  languageName = 'English'
-  contentDir = 'content'
-  weight = 1
+# [languages]
+# [languages.en]
+#  languageName = 'English'
+#  contentDir = 'content'
+#  weight = 1
 
-[languages.ru]
-  languageName = 'Russian'
-  contentDir = 'content.ru'
-  weight = 2
+# [languages.ru]
+#  languageName = 'Russian'
+#  contentDir = 'content.ru'
+#  weight = 2
 
-[languages.cn]
-  languageName = 'Chinese'
-  contentDir = 'content.cn'
-  weight = 3
+# [languages.cn]
+#  languageName = 'Chinese'
+#  contentDir = 'content.cn'
+#  weight = 3
 
 [menu]
 # [[menu.before]]
-[[menu.after]]
-  name = "Github"
-  url = "https://github.com/alex-shpak/hugo-book"
-  weight = 10
+# [[menu.after]]
+#  name = "Github"
+#  url = "https://github.com/alex-shpak/hugo-book"
+#  weight = 10
 
-[[menu.after]]
-  name = "Hugo Themes"
-  url = "https://themes.gohugo.io/hugo-book/"
-  weight = 20
+# [[menu.after]]
+#  name = "Hugo Themes"
+#  url = "https://themes.gohugo.io/hugo-book/"
+#  weight = 20
 
 [params]
   # (Optional, default true) Controls table of contents visibility on right side of pages.
