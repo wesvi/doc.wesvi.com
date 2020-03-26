@@ -35,6 +35,6 @@ win7环境
 (load-file "D:/app/emacs/.emacs.d/init.el")
 ```
 
-* 在`D:\app\emacs\.emacs.d`目录下创建`inin.el`空文件，以后配置信息写入该文件
+* 在`D:\app\emacs\.emacs.d`目录下创建`init.el`空文件，以后配置信息写入该文件
 
 * 安装**markdown-mode**插件`M-x package-install RET markdown-mode RET`
