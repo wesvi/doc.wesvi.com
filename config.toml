@@ -2,7 +2,7 @@
 
 baseURL = '/'
 title = 'Wesvi'
-theme = 'book'
+theme = 'sam'
 
 # Book configuration
 disablePathToLower = true
