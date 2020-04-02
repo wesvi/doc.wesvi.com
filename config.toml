@@ -4,6 +4,8 @@ baseURL = '/'
 title = 'Hugo Book'
 theme = 'book'
 
+DefaultContentLanguage = "cn"
+
 # Book configuration
 disablePathToLower = true
 enableGitInfo = true
